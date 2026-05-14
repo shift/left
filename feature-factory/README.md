@@ -17,4 +17,5 @@ Also: someone just Slack'd the team about a suspicious npm package. Your build i
 - [Review the junior's PR](../code-review)
 - [Keep shipping](../kept-shipping)
 
-*4 choices. There is no going back.*
+**4 choices — there is no going back.**
+

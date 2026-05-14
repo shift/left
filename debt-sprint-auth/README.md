@@ -13,4 +13,5 @@ But the CEO still wants features. Your manager needs help telling the story.
 - [Help your manager frame it right](../framed-well)
 - [The work speaks for itself](../rushed-feature)
 
-*2 choices. There is no going back.*
+**2 choices — there is no going back.**
+

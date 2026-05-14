@@ -14,4 +14,5 @@ You could just ship the fix. Or you could make it right.
 - [Add tests while you're here](../sprint-review-good)
 - [Rewrite the whole auth module](./rewrite)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

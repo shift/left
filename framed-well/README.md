@@ -20,4 +20,5 @@ Now the CTO wants to know: what's next?
 - [6 hours of meetings today](../meeting-hell)
 - [Your manager just quit — you're tech lead now](../tech-lead)
 
-*7 choices. There is no going back.*
+**7 choices — there is no going back.**
+

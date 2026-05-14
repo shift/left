@@ -12,4 +12,5 @@ You change one hex color. The entire dashboard layout breaks in Safari. The side
 - [Ask the CEO to push the demo](../sprint-review-good)
 - [Force-push the CSS changes](./force-push)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

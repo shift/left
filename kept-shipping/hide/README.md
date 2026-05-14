@@ -10,8 +10,6 @@ The senior engineer fixed it in 3 hours. He was supposed to be at his daughter's
 
 ---
 
----
-
-*You've been fired. The startup died. The company lost your data. The pager won.*
+*You failed. You've been fired. The startup died. The company lost your data. The pager won.*
 
 [🔄 Try again from the beginning](https://github.com/shift/left)

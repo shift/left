@@ -16,4 +16,5 @@ The intern approaches your desk. They're holding a laptop and a look of pure ter
 - [Point them to the git docs](../feature-factory)
 - [Fix it for them quickly](../feature-factory)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

@@ -16,4 +16,5 @@ Your feature touched the payment service's dependency chain. You didn't know it 
 - [Try to fix forward](./fix-forward)
 - [Wait for someone else to handle it](./hide)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

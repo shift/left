@@ -16,4 +16,5 @@ Your manager adds: "Pick whichever you want. But the CEO keeps asking about dark
 - [Build dark mode](../dark-mode)
 - [Upgrade the auth library](../auth-upgrade)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

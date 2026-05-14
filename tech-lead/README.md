@@ -16,4 +16,5 @@ You're now the tech lead. By default. No raise. Just a title change and a 1:1 wi
 - [Assert authority immediately](./hard)
 - [This wasn't the plan — update your resume](./honest)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

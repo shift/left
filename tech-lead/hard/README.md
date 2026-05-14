@@ -11,4 +11,5 @@ The senior engineer, who's been here 4 years: "I've seen three tech leads come a
 - [Take the feedback — adjust](../../framed-well)
 - [Double down — you're the lead now](./war)
 
-*2 choices. There is no going back.*
+**2 choices — there is no going back.**
+

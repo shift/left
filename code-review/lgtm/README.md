@@ -11,4 +11,5 @@ You typed LGTM without reading the diff. The PR introduced a SQL injection vulne
 - [Be honest — you were rushing](../../framed-well)
 - [Deflect — the developer should have caught it](./fired)
 
-*2 choices. There is no going back.*
+**2 choices — there is no going back.**
+

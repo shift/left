@@ -14,4 +14,5 @@ The contributor's GitHub profile is 2 weeks old. The fix involves downloading an
 - [Accept it — the tests pass](./compromised)
 - [Run it in a sandbox first](../framed-well)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

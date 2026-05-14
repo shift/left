@@ -10,8 +10,6 @@ Your manager's 1:1 note reads: "Enthusiastic but lacks judgment. Not a fit for t
 
 ---
 
----
-
-*You've been fired. The startup died. The company lost your data. The pager won.*
+*Scope creep killed you. You've been fired. The startup died. The company lost your data. The pager won.*
 
 [🔄 Try again from the beginning](https://github.com/shift/left)

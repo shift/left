@@ -15,4 +15,5 @@ The PM: "But you estimated 2 weeks."
 - [Be transparent about why it's late](../../framed-well)
 - [Cut scope to hit the deadline](../../rushed-feature)
 
-*2 choices. There is no going back.*
+**2 choices — there is no going back.**
+

@@ -10,8 +10,6 @@ Three months later, a security audit finds the hardcoded keys with access to pro
 
 ---
 
----
-
-*You've been fired. The startup died. The company lost your data. The pager won.*
+*The regulator found out. You've been fired. The startup died. The company lost your data. The pager won.*
 
 [🔄 Try again from the beginning](https://github.com/shift/left)

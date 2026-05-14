@@ -14,4 +14,5 @@ You could approve quickly. Or you could be the reviewer you wish you'd had.
 - [Approve with comments — be nice](./lax)
 - [LGTM — you're busy](./lgtm)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

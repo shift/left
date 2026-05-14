@@ -12,4 +12,5 @@ The CTO stops by your desk: "We have a deploy scheduled. Want to run it?"
 
 - [Let's ship it](https://github.com/shift/right)
 
-*1 choices. There is no going back.*
+**1 choice — there is no going back.**
+

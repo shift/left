@@ -18,4 +18,5 @@ You cannot. The mobile layout is a crime scene.
 - [Prove myself on a big project](https://github.com/shift/up)
 - [Fix the mobile layout first](https://github.com/shift/right)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

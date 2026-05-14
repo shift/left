@@ -8,8 +8,6 @@ You merged the PR. The binary was a cryptominer. It ran in your CI pipeline for 
 
 ---
 
----
-
-*You've been fired. The startup died. The company lost your data. The pager won.*
+*You failed. You've been fired. The startup died. The company lost your data. The pager won.*
 
 [🔄 Try again from the beginning](https://github.com/shift/left)

@@ -8,8 +8,6 @@ You worked nights and weekends to upgrade auth in a week. The migration introduc
 
 ---
 
----
-
-*You've been fired. The startup died. The company lost your data. The pager won.*
+*You gave too much. You got nothing back. You've been fired. The startup died. The company lost your data. The pager won.*
 
 [🔄 Try again from the beginning](https://github.com/shift/left)

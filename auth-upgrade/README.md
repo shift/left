@@ -16,4 +16,5 @@ Your auth library has known CVEs too. Nobody's touched it in 3 years.
 - [Do what you can in a day, leave it half-done](../sprint-review-shaky)
 - [Just do it, nights and weekends](./burnout)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

@@ -1,6 +1,6 @@
 # Credits & Sources
 
-> 📍 Day 1 · 0 decisions made
+> 📍 Sprint 1 · 1 decisions made
 
 **Shift-Left** is a satirical text adventure about the chaos of software engineering. Every incident is based on a real event.
 
@@ -40,4 +40,5 @@
 
 - [← Back to first day](../)
 
-*1 choices. There is no going back.*
+**1 choice — there is no going back.**
+

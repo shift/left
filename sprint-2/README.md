@@ -15,4 +15,5 @@ The senior engineer pulls you aside: "On-call rotation is open too. Best way to 
 - [Stay focused on the codebase](../feature-factory)
 - [Review the junior's PR](../code-review)
 
-*4 choices. There is no going back.*
+**4 choices — there is no going back.**
+

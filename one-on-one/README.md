@@ -13,4 +13,5 @@ The honest answer: you're drowning. The professional answer: "Good! Learning a l
 - [Be honest about the struggles](../framed-well)
 - [Put on a brave face](../feature-factory)
 
-*2 choices. There is no going back.*
+**2 choices — there is no going back.**
+

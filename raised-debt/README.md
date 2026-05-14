@@ -13,4 +13,5 @@ One sprint. It's not enough. But it's something.
 - [Take the sprint, focus on tests and CI](../debt-sprint)
 - [Use it to fix the auth module properly](../debt-sprint-auth)
 
-*2 choices. There is no going back.*
+**2 choices — there is no going back.**
+

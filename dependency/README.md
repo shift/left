@@ -14,4 +14,5 @@ Your `package-lock.json` hasn't been updated in 4 months. Your dependencies have
 - [Fix the immediate break, move on](../feature-factory)
 - [We control our dependencies — vendor everything](./vendor)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

@@ -33,4 +33,5 @@ Good luck. You'll need it.
 
 - [← Back to first day](../)
 
-*1 choices. There is no going back.*
+**1 choice — there is no going back.**
+
