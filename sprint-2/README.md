@@ -1,5 +1,7 @@
 # Sprint 2: The Architecture Question
 
+> 📍 Sprint 4 · 4 decisions made
+
 The CTO announces at standup: "We're evaluating cloud providers. We need a volunteer to do a technical spike."
 
 Everyone looks at the floor. Your manager looks at you.
@@ -10,8 +12,8 @@ Across the room, a junior dev is struggling with a PR review. And someone just S
 
 ---
 
-- [Volunteer for the cloud spike](https://github.com/shift/up)
-- [Volunteer for on-call rotation](https://github.com/shift/down)
+- [Volunteer for the cloud spike](../transition-to-cloud)
+- [Volunteer for on-call rotation](../transition-to-ops)
 - [Stay focused on the codebase](../feature-factory)
 - [Review the junior's PR](../code-review)
 - [Investigate the suspicious dependency](../supply-chain)

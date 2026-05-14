@@ -1,4 +1,4 @@
-# 🛡️ GAME OVER: The Deflection
+# 💀 GAME OVER
 
 You blamed the junior developer. In a meeting. In front of the team.
 

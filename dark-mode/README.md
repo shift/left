@@ -1,5 +1,7 @@
 # The Feature Nobody Needed
 
+> 📍 Sprint 2 · 2 decisions made
+
 You start building dark mode. Straightforward — until you open the CSS. It's 4,000 lines of `!important` written by three different contractors over two years. The class names are `.div1`, `.div2`, and inexplicably, `.banana`.
 
 You change one hex color. The entire dashboard layout breaks in Safari. The sidebar is now on top of the header. The CEO's demo is Thursday.

@@ -1,5 +1,7 @@
 # The Rabbit Hole
 
+> 📍 Sprint 2 · 2 decisions made
+
 You start the auth upgrade. v2→v4 is a major version jump. The migration guide is 47 pages. Three breaking changes affect your codebase directly.
 
 You estimate 2 weeks of careful, methodical work. Your manager said: "Don't spend more than a day on it."

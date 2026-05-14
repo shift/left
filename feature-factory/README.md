@@ -1,5 +1,7 @@
 # The Feature Factory
 
+> 📍 Late Game · 5 decisions made
+
 You keep your head down. Sprint after sprint, you ship features. Velocity looks great. Your manager is happy.
 
 But tech debt is piling up. Test coverage has dropped from 40% to 12%. The CI pipeline takes 45 minutes. Nobody has refactored anything in months.

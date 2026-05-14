@@ -1,5 +1,7 @@
 # The Optimist
 
+> 📍 Late Game · 10 decisions made
+
 5 days. Day 4: you discover the payment provider requires a compliance review. It takes 3 weeks.
 
 ---

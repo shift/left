@@ -1,5 +1,7 @@
 # Split the Difference
 
+> 📍 Late Game · 10 decisions made
+
 You said 2 weeks. It takes 5. The API documentation is wrong. Their sandbox doesn't match production. Their support team is in a timezone that's always asleep when you're working.
 
 The PM: "But you estimated 2 weeks."

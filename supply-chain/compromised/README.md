@@ -1,4 +1,4 @@
-# 🐍 GAME OVER: The Supply Chain
+# 💀 GAME OVER
 
 You merged the PR. The binary was a cryptominer. It ran in your CI pipeline for 3 weeks before anyone noticed. It had access to your build secrets, your deploy keys, and your production environment variables.
 

@@ -1,5 +1,7 @@
 # The Honest Conversation
 
+> 📍 Late Game · 10 decisions made
+
 You tell the CTO: "I don't feel ready for this. I want to do it right, but I need support."
 
 The CTO: "That's the most lead-like thing you could have said. Every lead who said they were ready was lying."

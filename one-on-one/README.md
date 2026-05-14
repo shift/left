@@ -1,5 +1,7 @@
 # The 1:1
 
+> 📍 Sprint 4 · 4 decisions made
+
 Your weekly 1:1. Your manager asks: "How are you doing? Really?"
 
 The honest answer: you're drowning. The professional answer: "Good! Learning a lot."

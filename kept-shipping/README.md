@@ -1,5 +1,7 @@
 # The Breaking Point
 
+> 📍 Late Game · 6 decisions made
+
 Friday, 4:47pm. You just merged a feature. CI is green. You're reaching for your bag when Slack explodes.
 
 `#incidents` — **P1: PAYMENT SERVICE DOWN**

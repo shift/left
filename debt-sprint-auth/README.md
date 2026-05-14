@@ -1,5 +1,7 @@
 # The Auth Fix
 
+> 📍 Late Game · 7 decisions made
+
 You spend the sprint fixing auth properly. New tests. Clean migration path. No breaking changes.
 
 The VP of Engineering: "This is what I like to see. Someone who fixes the foundation, not just paints the walls."

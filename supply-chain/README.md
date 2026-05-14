@@ -1,5 +1,7 @@
 # The Suspicious Package
 
+> 📍 Late Game · 5 decisions made
+
 A new contributor submits a PR to fix a "performance issue" in your build tooling. The code looks fine. The tests pass. But something feels off.
 
 The contributor's GitHub profile is 2 weeks old. The fix involves downloading and executing a binary from an S3 bucket. The binary is compiled — you can't read the source.

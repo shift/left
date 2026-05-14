@@ -1,4 +1,4 @@
-# 🫠 GAME OVER: The Hero
+# 💀 GAME OVER
 
 You worked nights and weekends to upgrade auth in a week. The migration introduced a subtle race condition that sporadically logged users in as other users. It took two weeks to discover. The GDPR complaint took six months to resolve.
 

@@ -1,4 +1,4 @@
-# 💥 GAME OVER: The Force Push
+# 💀 GAME OVER
 
 You force-pushed CSS changes to main without review. The dashboard broke for every user simultaneously. The CEO's demo was in 2 hours. The board saw a white screen with a floating login button.
 

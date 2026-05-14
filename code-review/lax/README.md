@@ -1,5 +1,7 @@
 # The Soft Review
 
+> 📍 Late Game · 6 decisions made
+
 You approved with comments. The junior addressed half of them and shipped. The other half got TODO comments.
 
 A week later, it breaks in production. The variable `x` was reused in an unexpected scope.

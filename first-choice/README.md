@@ -1,5 +1,7 @@
 # The First Assignment
 
+> 📍 Sprint 1 · 1 decisions made
+
 Your manager drops three Jira tickets in your Slack DM:
 
 - **BUG-2847:** Fix the login timeout. Customers are furious. Support has 200 open tickets.

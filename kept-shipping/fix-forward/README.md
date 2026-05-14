@@ -1,4 +1,4 @@
-# 🔥 GAME OVER: Fixing Forward
+# 💀 GAME OVER
 
 You tried to fix forward in production. Under pressure. At 5pm on a Friday.
 

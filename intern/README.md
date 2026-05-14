@@ -1,5 +1,7 @@
 # The Intern
 
+> 📍 Late Game · 9 decisions made
+
 The intern approaches your desk. They're holding a laptop and a look of pure terror. "I broke something. I think."
 
 47 uncommitted changes. Detached HEAD. Branch name: `main-backup-copy-final-v3-REAL`.

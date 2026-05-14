@@ -1,4 +1,4 @@
-# 👻 GAME OVER: The Ghost
+# 💀 GAME OVER
 
 You went home. You closed Slack.
 

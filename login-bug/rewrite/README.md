@@ -1,4 +1,4 @@
-# 💣 GAME OVER: Scope Creep
+# 💀 GAME OVER
 
 You tried to rewrite the auth module on day one. The PR was 4,200 lines. The review took three weeks. It introduced two new security vulnerabilities. The original login timeout bug? Still there.
 

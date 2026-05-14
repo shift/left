@@ -1,5 +1,7 @@
 # The Conversation
 
+> 📍 Late Game · 6 decisions made
+
 You sit down with your manager. "The codebase needs investment. If we don't address tech debt, we'll ship ourselves into a corner."
 
 Your manager: "You're right. I can give you one sprint. But after that, we're back to features. The board wants growth."

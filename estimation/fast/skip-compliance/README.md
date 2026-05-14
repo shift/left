@@ -1,4 +1,4 @@
-# ⚖️ GAME OVER: The Shortcut
+# 💀 GAME OVER
 
 You bypassed compliance. Hardcoded the API keys. Shipped the integration in 5 days, just like you estimated.
 

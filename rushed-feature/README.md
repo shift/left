@@ -1,5 +1,7 @@
 # The Rush Job
 
+> 📍 Late Game · 11 decisions made
+
 You scramble to ship something before the board meeting. A half-working dark mode toggle. The CSS still has banana classes.
 
 The demo works. Then someone asks: "Can we see it on mobile?"

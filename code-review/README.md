@@ -1,5 +1,7 @@
 # The Review
 
+> 📍 Late Game · 5 decisions made
+
 A junior developer submits a PR. 2,000 lines. The description says "fixes stuff." No tests. Variable names are single letters. There's a `// TODO: fix this later` in a function called `doThings()`.
 
 You could approve quickly. Or you could be the reviewer you wish you'd had.

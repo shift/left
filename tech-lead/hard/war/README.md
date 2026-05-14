@@ -1,4 +1,4 @@
-# ⚔️ GAME OVER: The War
+# 💀 GAME OVER
 
 You and the senior engineer are at war. Every architectural decision becomes a battleground. The team fragments.
 

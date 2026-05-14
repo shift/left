@@ -1,5 +1,7 @@
 # The Pipeline
 
+> 📍 Late Game · 9 decisions made
+
 You build a CI/CD pipeline. Proper stages. Automated tests. Deploy previews. The team ships faster and breaks less.
 
 The CEO notices: "Deployments used to take all day. Now they take 15 minutes."

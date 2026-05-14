@@ -1,5 +1,7 @@
 # The Estimate
 
+> 📍 Late Game · 9 decisions made
+
 Planning poker. The feature is "Integrate with third-party payment provider." You've never integrated a payment provider before.
 
 The junior says 2 days. The senior says 3 weeks. Everyone looks at you.

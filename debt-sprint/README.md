@@ -1,5 +1,7 @@
 # The Debt Sprint
 
+> 📍 Late Game · 7 decisions made
+
 You spend the sprint paying down tech debt. Tests go from 12% to 34%. CI goes from 45 minutes to 12. You find and fix three bugs nobody knew about.
 
 But the board meeting is next week. The CEO asks: "What did the team ship this sprint?" Your manager looks at the report: "Technical improvements."
