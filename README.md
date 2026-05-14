@@ -17,5 +17,6 @@ Somewhere in the distance, a pager goes off. Nobody reacts. This is normal.
 ---
 
 - [Open your laptop →](./first-choice)
+- [How to play →](./how-to-play)
 
-*1 choices. There is no going back.*
+*2 choices. There is no going back.*

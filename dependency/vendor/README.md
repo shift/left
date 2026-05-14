@@ -1,6 +1,6 @@
 # Vendoring
 
-> 📍 Late Game · 6 decisions made
+> 📍 Late Game · 7 decisions made
 
 You vendor your dependencies. Every package is checked into the repo. No surprises. No unpublishing attacks. No left-pad incidents.
 

@@ -1,6 +1,6 @@
 # The Left-Pad Situation
 
-> 📍 Late Game · 5 decisions made
+> 📍 Late Game · 6 decisions made
 
 Your app breaks. Not because of your code — because of a dependency you didn't know you had.
 

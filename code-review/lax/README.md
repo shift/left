@@ -1,6 +1,6 @@
 # The Soft Review
 
-> 📍 Late Game · 6 decisions made
+> 📍 Late Game · 7 decisions made
 
 You approved with comments. The junior addressed half of them and shipped. The other half got TODO comments.
 

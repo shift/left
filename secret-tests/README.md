@@ -1,6 +1,6 @@
 # The Ghost Contributor
 
-> 📍 Late Game · 6 decisions made
+> 📍 Day 1 · 0 decisions made
 
 You start adding tests in secret. Every PR gets a few more. Your velocity on "features" drops, but your PRs are cleaner.
 

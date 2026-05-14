@@ -4,16 +4,17 @@
 
 You keep your head down. Sprint after sprint, you ship features. Velocity looks great. Your manager is happy.
 
-But tech debt is piling up. Test coverage has dropped from 40% to 12%. The CI pipeline takes 45 minutes. Nobody has refactored anything in months.
+But tech debt is piling up. Test coverage has dropped from 40% to 12%. The CI pipeline takes 45 minutes. Nobody has refactored in months.
 
 You bring it up at retro. Someone says: "We can address tech debt next sprint." Next sprint never comes.
 
-*This is the Southwest Airlines pattern.* In December 2022, Southwest canceled 16,700 flights over Christmas. Their crew scheduling system was built in the 1990s. They'd known it needed replacing for over a decade. "Next quarter" became never. The meltdown cost them $1.2 billion.
+Also: someone just Slack'd the team about a suspicious npm package. Your build is broken. And a junior dev is struggling with a PR review.
 
 ---
 
-- [Raise it with your manager formally](../raised-debt)
-- [Just keep shipping](../kept-shipping)
-- [Start adding tests secretly](../secret-tests)
+- [Raise tech debt formally](../raised-debt)
+- [Investigate the npm incident](../dependency)
+- [Review the junior's PR](../code-review)
+- [Keep shipping](../kept-shipping)
 
-*3 choices. There is no going back.*
+*4 choices. There is no going back.*

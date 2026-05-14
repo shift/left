@@ -1,6 +1,6 @@
 # The Rubber Stamp
 
-> 📍 Late Game · 6 decisions made
+> 📍 Late Game · 7 decisions made
 
 You typed LGTM without reading the diff. The PR introduced a SQL injection vulnerability. The kind they teach in Security 101.
 
