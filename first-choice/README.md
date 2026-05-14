@@ -15,3 +15,5 @@ Your manager adds: "Pick whichever you want. But the CEO keeps asking about dark
 - [Fix the login bug](../login-bug)
 - [Build dark mode](../dark-mode)
 - [Upgrade the auth library](../auth-upgrade)
+
+*3 choices. There is no going back.*

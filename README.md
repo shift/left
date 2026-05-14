@@ -2,6 +2,10 @@
 
 > 📍 Day 1 · 0 decisions made
 
+🎮 *Shift-Left is a satirical text adventure about software engineering. It contains themes of burnout, being fired, tech industry dysfunction, and real-world incidents that caused real harm. Roughly 1-2 hours to play. One way to win, many ways to lose.*
+
+---
+
 🎮 *You're playing Shift-Left, a developer text adventure. Click links to navigate. Make good choices to reach Production. Bad choices get you fired. No pressure.*
 
 ---
@@ -13,3 +17,5 @@ Somewhere in the distance, a pager goes off. Nobody reacts. This is normal.
 ---
 
 - [Open your laptop →](./first-choice)
+
+*1 choices. There is no going back.*

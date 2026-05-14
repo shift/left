@@ -19,3 +19,5 @@ Now the CTO wants to know: what's next?
 - [The intern needs help](../intern)
 - [6 hours of meetings today](../meeting-hell)
 - [Your manager just quit — you're tech lead now](../tech-lead)
+
+*7 choices. There is no going back.*

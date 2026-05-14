@@ -15,3 +15,5 @@ You're now the tech lead. By default. No raise. Just a title change and a 1:1 wi
 - [Listen first, lead second](../framed-well)
 - [Assert authority immediately](./hard)
 - [This wasn't the plan — update your resume](./honest)
+
+*3 choices. There is no going back.*

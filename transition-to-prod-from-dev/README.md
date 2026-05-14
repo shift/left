@@ -13,3 +13,5 @@ The room shifts. The warm chaos of the dev environment gives way to something co
 ---
 
 - [Enter the deploy →](https://github.com/shift/right)
+
+*1 choices. There is no going back.*

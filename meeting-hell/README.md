@@ -11,3 +11,5 @@ You have 6 hours of meetings today. A sprint planning, a design review, a "quick
 - [Decline the optional ones, protect your time](../framed-well)
 - [Attend all of them — visibility matters](../feature-factory)
 - [Camera off, Slack open, fake it](../feature-factory)
+
+*3 choices. There is no going back.*

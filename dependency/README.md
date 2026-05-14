@@ -13,3 +13,5 @@ Your `package-lock.json` hasn't been updated in 4 months. Your dependencies have
 - [Pin dependencies, add a lockfile, set up Dependabot](../framed-well)
 - [Fix the immediate break, move on](../feature-factory)
 - [We control our dependencies — vendor everything](./vendor)
+
+*3 choices. There is no going back.*

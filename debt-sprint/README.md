@@ -14,3 +14,5 @@ The CEO's face does something it shouldn't.
 
 - [Frame it as risk reduction for the board](../framed-well)
 - [Ship something quick before the meeting](../rushed-feature)
+
+*2 choices. There is no going back.*

@@ -18,3 +18,5 @@ Across the room, a junior dev is struggling with a PR review. And someone just S
 - [Review the junior's PR](../code-review)
 - [Investigate the suspicious dependency](../supply-chain)
 - [Address the build failure from npm](../dependency)
+
+*6 choices. There is no going back.*

@@ -15,3 +15,5 @@ You bring it up at retro. Someone says: "We can address tech debt next sprint." 
 - [Raise it with your manager formally](../raised-debt)
 - [Just keep shipping](../kept-shipping)
 - [Start adding tests secretly](../secret-tests)
+
+*3 choices. There is no going back.*

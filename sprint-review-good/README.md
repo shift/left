@@ -10,3 +10,5 @@ Your demo loads. The team watches. The demo works. You shipped something real on
 
 - [Head to sprint 2 →](../sprint-2)
 - [Your manager wants to chat about next steps](../one-on-one)
+
+*2 choices. There is no going back.*

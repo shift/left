@@ -17,3 +17,5 @@ You cannot. The mobile layout is a crime scene.
 - [Understand infrastructure first](https://github.com/shift/down)
 - [Prove myself on a big project](https://github.com/shift/up)
 - [Fix the mobile layout first](https://github.com/shift/right)
+
+*3 choices. There is no going back.*

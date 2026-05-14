@@ -12,3 +12,5 @@ The intern asks: "Why is `git clone` taking 40 minutes?"
 
 - [Automate the update process](../../framed-well)
 - [This is fine — stability is worth the size](../../feature-factory)
+
+*2 choices. There is no going back.*

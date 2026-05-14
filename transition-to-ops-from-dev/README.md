@@ -13,3 +13,5 @@ The room shifts. The glow of the monitor gives way to the amber glow of a RAID a
 ---
 
 - [Enter the basement →](https://github.com/shift/down)
+
+*1 choices. There is no going back.*

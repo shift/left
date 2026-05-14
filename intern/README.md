@@ -15,3 +15,5 @@ The intern approaches your desk. They're holding a laptop and a look of pure ter
 - [Sit down and pair with them](../framed-well)
 - [Point them to the git docs](../feature-factory)
 - [Fix it for them quickly](../feature-factory)
+
+*3 choices. There is no going back.*

@@ -12,3 +12,5 @@ But you shipped. That counts for something. Most people don't ship on their firs
 
 - [Head to sprint 2 →](../sprint-2)
 - [Your manager wants to chat](../one-on-one)
+
+*2 choices. There is no going back.*

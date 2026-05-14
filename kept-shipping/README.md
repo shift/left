@@ -15,3 +15,5 @@ Your feature touched the payment service's dependency chain. You didn't know it 
 - [Revert immediately](https://github.com/shift/right/tree/main/emergency)
 - [Try to fix forward](./fix-forward)
 - [Wait for someone else to handle it](./hide)
+
+*3 choices. There is no going back.*

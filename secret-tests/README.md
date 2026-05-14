@@ -10,3 +10,5 @@ Three weeks in, your manager asks: "Your velocity has slowed. Everything okay?"
 
 - [Explain what you've been doing](../debt-sprint)
 - [Speed back up, drop the tests](../kept-shipping)
+
+*2 choices. There is no going back.*

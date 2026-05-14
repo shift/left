@@ -12,4 +12,8 @@ The junior quit. The team stopped requesting your reviews. Then they stopped tal
 
 ---
 
+---
+
+*You've been fired. The startup died. The company lost your data. The pager won.*
+
 [🔄 Try again from the beginning](https://github.com/shift/left)

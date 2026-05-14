@@ -15,3 +15,5 @@ You're not in Kansas anymore.
 ---
 
 - [Enter the cloud →](https://github.com/shift/up)
+
+*1 choices. There is no going back.*

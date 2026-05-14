@@ -12,3 +12,5 @@
 
 - [Escalate immediately](../../framed-well)
 - [Work around the compliance review](./skip-compliance)
+
+*2 choices. There is no going back.*

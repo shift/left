@@ -13,3 +13,5 @@ The contributor's GitHub profile is 2 weeks old. The fix involves downloading an
 - [Reject it — require source, not binaries](../framed-well)
 - [Accept it — the tests pass](./compromised)
 - [Run it in a sandbox first](../framed-well)
+
+*3 choices. There is no going back.*

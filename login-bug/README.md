@@ -13,3 +13,5 @@ You could just ship the fix. Or you could make it right.
 - [Ship the fix, file a ticket for tests](../sprint-review-good)
 - [Add tests while you're here](../sprint-review-good)
 - [Rewrite the whole auth module](./rewrite)
+
+*3 choices. There is no going back.*

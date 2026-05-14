@@ -13,3 +13,5 @@ You could approve quickly. Or you could be the reviewer you wish you'd had.
 - [Request changes — be thorough](../framed-well)
 - [Approve with comments — be nice](./lax)
 - [LGTM — you're busy](./lgtm)
+
+*3 choices. There is no going back.*

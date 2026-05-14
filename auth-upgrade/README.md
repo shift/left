@@ -15,3 +15,5 @@ Your auth library has known CVEs too. Nobody's touched it in 3 years.
 - [Tell your manager it needs 2 weeks, properly scoped](../sprint-review-good)
 - [Do what you can in a day, leave it half-done](../sprint-review-shaky)
 - [Just do it, nights and weekends](./burnout)
+
+*3 choices. There is no going back.*

@@ -13,3 +13,5 @@ The junior says 2 days. The senior says 3 weeks. Everyone looks at you.
 - ["I need to spike it first before estimating"](../framed-well)
 - [2 weeks — split the difference](./medium)
 - [5 days — be optimistic](./fast)
+
+*3 choices. There is no going back.*

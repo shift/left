@@ -15,3 +15,5 @@ You're not in Kansas anymore.
 ---
 
 - [Enter the basement →](https://github.com/shift/down)
+
+*1 choices. There is no going back.*

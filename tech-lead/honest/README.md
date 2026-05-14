@@ -11,3 +11,5 @@ He pairs you with the senior engineer as co-lead. It's not perfect. But it's hon
 ---
 
 - [Lead the team together →](../../framed-well)
+
+*1 choices. There is no going back.*
