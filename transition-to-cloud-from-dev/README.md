@@ -1,6 +1,6 @@
 # Heading to the Cloud
 
-> 📍 Late Game · 9 decisions made
+> 📍 Late Game · 10 decisions made
 
 You raise your hand. "I'll handle the cloud spike."
 
@@ -12,7 +12,7 @@ The room shifts. The comfortable glow of the IDE gives way to something brighter
 
 ---
 
-- [Enter the cloud →](https://github.com/shift/up)
+- [Enter the cloud →](https://github.com/shift/up/blob/main/README.md)
 
 **1 choice — there is no going back.**
 

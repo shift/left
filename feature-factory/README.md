@@ -1,6 +1,6 @@
 # The Feature Factory
 
-> 📍 Late Game · 5 decisions made
+> 📍 Late Game · 6 decisions made · ⚠️ Warning
 
 You keep your head down. Sprint after sprint, you ship features. Velocity looks great. Your manager is happy.
 
@@ -12,10 +12,10 @@ Also: someone just Slack'd the team about a suspicious npm package. Your build i
 
 ---
 
-- [Raise tech debt formally](../raised-debt)
-- [Investigate the npm incident](../dependency)
-- [Review the junior's PR](../code-review)
-- [Keep shipping](../kept-shipping)
+- [Raise tech debt formally](../raised-debt/README.md)
+- [Investigate the npm incident](../dependency/README.md)
+- [Review the junior's PR](../code-review/README.md)
+- [Keep shipping](../kept-shipping/README.md)
 
 **4 choices — there is no going back.**
 

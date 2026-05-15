@@ -1,6 +1,6 @@
 # Heading to the Cloud
 
-> 📍 Late Game · 5 decisions made
+> 📍 Late Game · 6 decisions made
 
 The CTO hands you the AWS root account credentials on a Post-it note. "Don't lose these. Also, don't tell anyone I gave these to you."
 
@@ -14,7 +14,7 @@ You're not in Kansas anymore.
 
 ---
 
-- [Enter the cloud →](https://github.com/shift/up)
+- [Enter the cloud →](https://github.com/shift/up/blob/main/README.md)
 
 **1 choice — there is no going back.**
 

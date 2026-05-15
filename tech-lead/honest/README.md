@@ -1,6 +1,6 @@
 # The Honest Conversation
 
-> 📍 Late Game · 10 decisions made
+> 📍 Late Game · 11 decisions made
 
 You tell the CTO: "I don't feel ready for this. I want to do it right, but I need support."
 
@@ -10,7 +10,7 @@ He pairs you with the senior engineer as co-lead. It's not perfect. But it's hon
 
 ---
 
-- [Lead the team together →](../../framed-well)
+- [Lead the team together →](../../framed-well/README.md)
 
 **1 choice — there is no going back.**
 

@@ -1,6 +1,6 @@
 # Sprint 2: The Architecture Question
 
-> 📍 Sprint 4 · 4 decisions made
+> 📍 Late Game · 5 decisions made
 
 The CTO announces at standup: "We're evaluating cloud providers. We need a volunteer to do a technical spike."
 
@@ -10,10 +10,10 @@ The senior engineer pulls you aside: "On-call rotation is open too. Best way to 
 
 ---
 
-- [Volunteer for the cloud spike](../transition-to-cloud)
-- [Volunteer for on-call rotation](../transition-to-ops)
-- [Stay focused on the codebase](../feature-factory)
-- [Review the junior's PR](../code-review)
+- [Volunteer for the cloud spike](../transition-to-cloud/README.md)
+- [Volunteer for on-call rotation](../transition-to-ops/README.md)
+- [Stay focused on the codebase](../feature-factory/README.md)
+- [Review the junior's PR](../code-review/README.md)
 
 **4 choices — there is no going back.**
 

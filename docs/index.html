@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shift-Left — Leaderboard</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #0d1117;
+      color: #e6edf3;
+      min-height: 100vh;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 2rem 1rem;
+    }
+    header {
+      text-align: left;
+      margin-bottom: 3rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid #21262d;
+    }
+    h1 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+    h1 span { color: #f0883e; }
+    .tagline {
+      color: #7d8590;
+      font-size: 0.875rem;
+    }
+    .play-link {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.5rem 1rem;
+      background: #238636;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-size: 0.875rem;
+      font-weight: 500;
+    }
+    .play-link:hover { background: #2ea043; }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1rem;
+      margin-bottom: 3rem;
+    }
+    .stat {
+      background: #161b22;
+      border: 1px solid #21262d;
+      border-radius: 8px;
+      padding: 1rem;
+      text-align: center;
+    }
+    .stat-value {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: #f0883e;
+    }
+    .stat-label {
+      font-size: 0.75rem;
+      color: #7d8590;
+      margin-top: 0.25rem;
+    }
+    .section-title {
+      font-size: 1.125rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+    }
+    .submit {
+      display: inline-block;
+      margin-bottom: 2rem;
+      padding: 0.5rem 1rem;
+      border: 1px solid #f0883e;
+      color: #f0883e;
+      text-decoration: none;
+      border-radius: 6px;
+      font-size: 0.875rem;
+    }
+    .submit:hover { background: rgba(240, 136, 62, 0.1); }
+    #leaderboard {
+      list-style: none;
+    }
+    .entry {
+      background: #161b22;
+      border: 1px solid #21262d;
+      border-radius: 8px;
+      padding: 1rem;
+      margin-bottom: 0.75rem;
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      gap: 0.75rem;
+      align-items: center;
+    }
+    .entry-rank {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: #f0883e;
+      min-width: 2rem;
+      text-align: center;
+    }
+    .entry-info { min-width: 0; }
+    .entry-user {
+      font-weight: 600;
+      font-size: 0.875rem;
+    }
+    .entry-user a { color: #58a6ff; text-decoration: none; }
+    .entry-user a:hover { text-decoration: underline; }
+    .entry-details {
+      color: #7d8590;
+      font-size: 0.75rem;
+      margin-top: 0.25rem;
+    }
+    .entry-story {
+      color: #8b949e;
+      font-size: 0.8rem;
+      margin-top: 0.5rem;
+      line-height: 1.5;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+    }
+    .entry-deaths {
+      font-size: 0.875rem;
+      font-weight: 600;
+      text-align: right;
+      white-space: nowrap;
+    }
+    .death-count { color: #f85149; }
+    .loading {
+      text-align: center;
+      color: #7d8590;
+      padding: 2rem;
+    }
+    .error {
+      text-align: center;
+      color: #f85149;
+      padding: 2rem;
+    }
+    .empty {
+      text-align: center;
+      color: #7d8590;
+      padding: 2rem;
+      background: #161b22;
+      border: 1px solid #21262d;
+      border-radius: 8px;
+    }
+    .empty p { margin-bottom: 0.5rem; }
+    footer {
+      margin-top: 3rem;
+      padding-top: 2rem;
+      border-top: 1px solid #21262d;
+      color: #7d8590;
+      font-size: 0.75rem;
+    }
+    @media (max-width: 600px) {
+      .stats { grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1><span>shift/left</span> — Leaderboard</h1>
+      <p class="tagline">A developer text adventure across 4 GitHub repos. 120 rooms. 29 ways to die. 1 way to win.</p>
+      <a class="play-link" href="https://github.com/shift/left">▶ Play the game</a>
+    </header>
+
+    <div class="stats">
+      <div class="stat">
+        <div class="stat-value" id="stat-players">—</div>
+        <div class="stat-label">Survivors</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value">120</div>
+        <div class="stat-label">Rooms</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value">29</div>
+        <div class="stat-label">Ways to die</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value">45-90m</div>
+        <div class="stat-label">Play time</div>
+      </div>
+    </div>
+
+    <h2 class="section-title">Hall of Production</h2>
+    <a class="submit" href="https://github.com/shift/left/issues/new?template=i-reached-production.yml">🏆 Submit your run</a>
+
+    <div id="leaderboard">
+      <div class="loading">Loading survivors…</div>
+    </div>
+
+    <footer>
+      <p>Shift-Left is a satirical text adventure. All incidents are based on real events.</p>
+      <p style="margin-top:0.5rem"><a href="https://github.com/shift/left" style="color:#58a6ff">Source</a> · <a href="https://github.com/shift/left/issues" style="color:#58a6ff">Issues</a> · <a href="https://github.com/shift/left/blob/main/credits/README.md" style="color:#58a6ff">Credits</a></p>
+    </footer>
+  </div>
+
+  <script>
+    (async function() {
+      const el = document.getElementById('leaderboard');
+      const statEl = document.getElementById('stat-players');
+      try {
+        const res = await fetch('https://api.github.com/repos/shift/left/issues?labels=🏆+victory&state=open&per_page=50&sort=created&direction=desc', {
+          headers: { 'Accept': 'application/vnd.github.v3+json' }
+        });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const issues = await res.json();
+
+        // Filter to actual issues (not PRs)
+        const entries = issues.filter(i => !i.pull_request);
+
+        statEl.textContent = entries.length;
+
+        if (entries.length === 0) {
+          el.innerHTML = '<div class="empty"><p>No survivors yet.</p><p>Will you be the first?</p></div>';
+          return;
+        }
+
+        el.innerHTML = '';
+        entries.forEach((issue, i) => {
+          const li = document.createElement('div');
+          li.className = 'entry';
+
+          // Parse body for structured data
+          const body = issue.body || '';
+          const deathsMatch = body.match(/.*\n.*\n.*\n.*\n(.*)/);
+
+          // Extract deaths from the form
+          let deaths = '?';
+          const deathsLine = body.split('\n').find(l => l.trim().match(/^\d+$/));
+          if (deathsLine) deaths = deathsLine.trim();
+
+          // Extract story
+          let story = '';
+          const storyMatch = body.match(/### What happened on your run\?\n([\s\S]*?)(?:###|---|$)/);
+          if (storyMatch) story = storyMatch[1].trim();
+
+          const user = issue.user.login;
+          const date = new Date(issue.created_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+
+          li.innerHTML = `
+            <div class="entry-rank">${i + 1}</div>
+            <div class="entry-info">
+              <div class="entry-user"><a href="https://github.com/${user}">@${user}</a></div>
+              <div class="entry-details">${date}</div>
+              ${story ? `<div class="entry-story">${story.replace(/</g, '&lt;')}</div>` : ''}
+            </div>
+            <div class="entry-deaths">
+              ${deaths !== '?' ? `<span class="death-count">💀 ${deaths}</span>` : ''}
+              <br><span style="color:#7d8590;font-size:0.7rem">deaths</span>
+            </div>
+          `;
+          el.appendChild(li);
+        });
+      } catch (err) {
+        el.innerHTML = `<div class="error">Failed to load leaderboard: ${err.message}</div>`;
+        statEl.textContent = '?';
+      }
+    })();
+  </script>
+</body>
+</html>

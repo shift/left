@@ -19,11 +19,17 @@ This is a text adventure played entirely through GitHub README files. No app to 
 - **shift/down** — The Basement. On-call, incidents, legacy servers.
 - **shift/right** — Production. The final exam.
 
+**Community:**
+- 📊 [Leaderboard & victory submissions](https://github.com/shift/left/issues?q=label%3A%F0%9F%8F%86+victory)
+- 🐛 [Report bugs](https://github.com/shift/left/issues/new?template=bug-report.yml)
+
 **Tips:**
 - The progress bar ("Sprint 2 · 3 decisions made") tells you how deep you are.
 - Strike warnings are subtle. Pay attention to the prose.
 - Read the *📖 footnotes*. They reference real incidents.
 - Multiple paths exist. Try different choices.
+
+**Content note:** This game depicts workplace scenarios including burnout, firing, security breaches, and infrastructure failures. All incidents are fictionalized from real events.
 
 **Estimated time:** 45-90 minutes.
 
@@ -31,7 +37,7 @@ Good luck. You'll need it.
 
 ---
 
-- [← Back to first day](../)
+- [← Back to first day](../README.md)
 
 **1 choice — there is no going back.**
 

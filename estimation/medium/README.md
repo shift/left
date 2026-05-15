@@ -1,6 +1,6 @@
 # Split the Difference
 
-> 📍 Late Game · 10 decisions made
+> 📍 Late Game · 11 decisions made · ⚠️ Warning
 
 You said 2 weeks. It takes 5. The API documentation is wrong. Their sandbox doesn't match production. Their support team is in a timezone that's always asleep when you're working.
 
@@ -12,8 +12,8 @@ The PM: "But you estimated 2 weeks."
 
 ---
 
-- [Be transparent about why it's late](../../framed-well)
-- [Cut scope to hit the deadline](../../rushed-feature)
+- [Be transparent about why it's late](../../framed-well/README.md)
+- [Cut scope to hit the deadline](../../rushed-feature/README.md)
 
 **2 choices — there is no going back.**
 

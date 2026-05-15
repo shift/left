@@ -1,6 +1,6 @@
 # The Left-Pad Situation
 
-> 📍 Late Game · 6 decisions made
+> 📍 Late Game · 7 decisions made
 
 Your app breaks. Not because of your code — because of a dependency you didn't know you had.
 
@@ -10,9 +10,10 @@ Your `package-lock.json` hasn't been updated in 4 months. Your dependencies have
 
 ---
 
-- [Pin dependencies, add a lockfile, set up Dependabot](../framed-well)
-- [Fix the immediate break, move on](../feature-factory)
-- [We control our dependencies — vendor everything](./vendor)
+- [Pin dependencies, add a lockfile, set up Dependabot](../framed-well/README.md)
+- [Fix the immediate break, move on](../feature-factory/README.md)
+- [We control our dependencies — vendor everything](./vendor/README.md)
+- [Review the suspicious PR that just came in](../supply-chain/README.md)
 
-**3 choices — there is no going back.**
+**4 choices — there is no going back.**
 

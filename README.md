@@ -6,7 +6,7 @@
 
 Reach Production. Don't get fired.
 
-[How to play →](./how-to-play) · [About this game →](./credits) · [Start →](./first-choice)
+[How to play →](./how-to-play/README.md) · [About this game →](./credits/README.md) · [Start →](./first-choice/README.md)
 
 ---
 
@@ -16,9 +16,9 @@ Somewhere in the distance, a pager goes off. Nobody reacts. This is normal.
 
 ---
 
-- [Start →](./first-choice)
-- [How to play →](./how-to-play)
-- [About this game →](./credits)
+- [Start →](./first-choice/README.md)
+- [How to play →](./how-to-play/README.md)
+- [About this game →](./credits/README.md)
 
 **3 choices — there is no going back.**
 

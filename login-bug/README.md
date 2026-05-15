@@ -10,9 +10,9 @@ You could just ship the fix. Or you could make it right.
 
 ---
 
-- [Ship the fix, file a ticket for tests](../sprint-review-good)
-- [Add tests while you're here](../sprint-review-good)
-- [Rewrite the whole auth module](./rewrite)
+- [Ship the fix, file a ticket for tests](./ship-fix/README.md)
+- [Add tests while you're here](./add-tests/README.md)
+- [Rewrite the whole auth module](./rewrite/README.md)
 
 **3 choices — there is no going back.**
 

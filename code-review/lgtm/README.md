@@ -1,6 +1,6 @@
 # The Rubber Stamp
 
-> 📍 Late Game · 7 decisions made
+> 📍 Late Game · 8 decisions made · 🔴 Danger
 
 You typed LGTM without reading the diff. The PR introduced a SQL injection vulnerability. The kind they teach in Security 101.
 
@@ -8,8 +8,8 @@ You typed LGTM without reading the diff. The PR introduced a SQL injection vulne
 
 ---
 
-- [Be honest — you were rushing](../../framed-well)
-- [Deflect — the developer should have caught it](./fired)
+- [Be honest — you were rushing](../../framed-well/README.md)
+- [Deflect — the developer should have caught it](./fired/README.md)
 
 **2 choices — there is no going back.**
 

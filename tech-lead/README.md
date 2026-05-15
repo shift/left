@@ -1,6 +1,6 @@
 # The Promotion
 
-> 📍 Late Game · 9 decisions made
+> 📍 Late Game · 10 decisions made
 
 Your manager leaves. Just... leaves. Two weeks notice, a box of succulents, and a Slack message: "You've got this. 💪"
 
@@ -12,9 +12,9 @@ You're now the tech lead. By default. No raise. Just a title change and a 1:1 wi
 
 ---
 
-- [Listen first, lead second](../framed-well)
-- [Assert authority immediately](./hard)
-- [This wasn't the plan — update your resume](./honest)
+- [Listen first, lead second](../framed-well/README.md)
+- [Assert authority immediately](./hard/README.md)
+- [This wasn't the plan — update your resume](./honest/README.md)
 
 **3 choices — there is no going back.**
 

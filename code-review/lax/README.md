@@ -1,6 +1,6 @@
 # The Soft Review
 
-> 📍 Late Game · 7 decisions made
+> 📍 Late Game · 8 decisions made · ⚠️ Warning
 
 You approved with comments. The junior addressed half of them and shipped. The other half got TODO comments.
 
@@ -10,8 +10,8 @@ The junior finds you at lunch: "You approved that PR. You said it was fine."
 
 ---
 
-- [Take responsibility and fix it](../../framed-well)
-- [It's their code, their problem](../../rushed-feature)
+- [Take responsibility and fix it](../../framed-well/README.md)
+- [It's their code, their problem](../../rushed-feature/README.md)
 
 **2 choices — there is no going back.**
 

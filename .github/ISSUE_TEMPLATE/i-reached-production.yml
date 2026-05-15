@@ -1,0 +1,51 @@
+name: "🏆 I Reached Production!"
+description: "You survived. Submit your run to the leaderboard."
+labels: ["🏆 victory"]
+title: "🏆 I reached Production!"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Congratulations. Most people don't make it.
+        
+        Fill in your run details below. Your entry will appear on the [leaderboard](https://shift.github.io/left/).
+        
+        **Spoiler warning:** Your path may contain spoilers for other players.
+
+  - type: dropdown
+    id: path
+    attributes:
+      label: Which act did you enter first?
+      options:
+        - "shift/left — stayed in dev"
+        - "shift/up — went to the cloud"
+        - "shift/down — went to ops"
+        - "shift/right — went straight to production"
+    validations:
+      required: true
+
+  - type: input
+    id: deaths
+    attributes:
+      label: How many times did you die before winning?
+      description: "Be honest. Or don't. The pager knows."
+      placeholder: "3"
+    validations:
+      required: true
+
+  - type: textarea
+    id: story
+    attributes:
+      label: What happened on your run?
+      description: Tell the story. What was your closest call? What surprised you?
+      placeholder: "I fixed the login bug, skipped the tests, then got caught in the CSS nightmare..."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Leaderboard consent
+      options:
+        - label: "Add my username to the public leaderboard"
+          required: false

@@ -1,6 +1,6 @@
 # The Suspicious Package
 
-> 📍 Day 1 · 0 decisions made
+> 📍 Late Game · 8 decisions made
 
 A new contributor submits a PR to fix a "performance issue" in your build tooling. The code looks fine. The tests pass. But something feels off.
 
@@ -10,9 +10,9 @@ The contributor's GitHub profile is 2 weeks old. The fix involves downloading an
 
 ---
 
-- [Reject it — require source, not binaries](../framed-well)
-- [Accept it — the tests pass](./compromised)
-- [Run it in a sandbox first](../framed-well)
+- [Reject it — require source, not binaries](../framed-well/README.md)
+- [Accept it — the tests pass](./compromised/README.md)
+- [Run it in a sandbox first](../framed-well/README.md)
 
 **3 choices — there is no going back.**
 

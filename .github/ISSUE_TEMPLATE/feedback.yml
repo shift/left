@@ -1,0 +1,12 @@
+name: General Feedback
+description: "Thoughts, suggestions, fan mail, hate mail"
+labels: ["feedback"]
+title: "Feedback:"
+body:
+  - type: textarea
+    id: feedback
+    attributes:
+      label: What's on your mind?
+      placeholder: "This game triggered my Friday deploy PTSD and I love it."
+    validations:
+      required: true

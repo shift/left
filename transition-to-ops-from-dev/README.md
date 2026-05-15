@@ -1,6 +1,6 @@
 # Heading to the Ops Floor
 
-> 📍 Late Game · 9 decisions made
+> 📍 Late Game · 10 decisions made
 
 You raise your hand. "I'll take on-call this quarter."
 
@@ -12,7 +12,7 @@ The room shifts. The glow of the monitor gives way to the amber glow of a RAID a
 
 ---
 
-- [Enter the basement →](https://github.com/shift/down)
+- [Enter the basement →](https://github.com/shift/down/blob/main/README.md)
 
 **1 choice — there is no going back.**
 

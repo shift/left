@@ -1,6 +1,6 @@
 # Vendoring
 
-> 📍 Late Game · 7 decisions made
+> 📍 Late Game · 8 decisions made
 
 You vendor your dependencies. Every package is checked into the repo. No surprises. No unpublishing attacks. No left-pad incidents.
 
@@ -10,8 +10,8 @@ The intern asks: "Why is `git clone` taking 40 minutes?"
 
 ---
 
-- [Automate the update process](../../framed-well)
-- [This is fine — stability is worth the size](../../feature-factory)
+- [Automate the update process](../../framed-well/README.md)
+- [This is fine — stability is worth the size](../../feature-factory/README.md)
 
 **2 choices — there is no going back.**
 

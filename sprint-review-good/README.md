@@ -1,6 +1,6 @@
 # Sprint Review
 
-> 📍 Sprint 3 · 3 decisions made
+> 📍 Sprint 4 · 4 decisions made
 
 It's Friday. Sprint review. You're presenting your first week's work.
 
@@ -8,8 +8,8 @@ Your demo loads. The team watches. The demo works. You shipped something real on
 
 ---
 
-- [Head to sprint 2 →](../sprint-2)
-- [Your manager wants to chat about next steps](../one-on-one)
+- [Head to sprint 2 →](../sprint-2/README.md)
+- [Your manager wants to chat about next steps](../one-on-one/README.md)
 
 **2 choices — there is no going back.**
 

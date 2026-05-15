@@ -1,6 +1,6 @@
 # The Debt Sprint
 
-> 📍 Late Game · 7 decisions made
+> 📍 Late Game · 8 decisions made · ⚠️ Warning
 
 You spend the sprint paying down tech debt. Tests go from 12% to 34%. CI goes from 45 minutes to 12. You find and fix three bugs nobody knew about.
 
@@ -12,8 +12,8 @@ The CEO's face does something it shouldn't.
 
 ---
 
-- [Frame it as risk reduction for the board](../framed-well)
-- [Ship something quick before the meeting](../rushed-feature)
+- [Frame it as risk reduction for the board](../framed-well/README.md)
+- [Ship something quick before the meeting](../rushed-feature/README.md)
 
 **2 choices — there is no going back.**
 

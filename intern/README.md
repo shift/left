@@ -1,6 +1,6 @@
 # The Intern
 
-> 📍 Late Game · 9 decisions made
+> 📍 Late Game · 10 decisions made
 
 The intern approaches your desk. They're holding a laptop and a look of pure terror. "I broke something. I think."
 
@@ -12,9 +12,9 @@ The intern approaches your desk. They're holding a laptop and a look of pure ter
 
 ---
 
-- [Sit down and pair with them](../framed-well)
-- [Point them to the git docs](../feature-factory)
-- [Fix it for them quickly](../feature-factory)
+- [Sit down and pair with them](../framed-well/README.md)
+- [Point them to the git docs](../feature-factory/README.md)
+- [Fix it for them quickly](../feature-factory/README.md)
 
 **3 choices — there is no going back.**
 

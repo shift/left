@@ -1,6 +1,6 @@
 # Heading to the Ops Floor
 
-> 📍 Late Game · 5 decisions made
+> 📍 Late Game · 6 decisions made
 
 The senior engineer claps you on the shoulder: "Welcome to the dark side. We'll get you a pager."
 
@@ -14,7 +14,7 @@ You're not in Kansas anymore.
 
 ---
 
-- [Enter the basement →](https://github.com/shift/down)
+- [Enter the basement →](https://github.com/shift/down/blob/main/README.md)
 
 **1 choice — there is no going back.**
 

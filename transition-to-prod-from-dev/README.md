@@ -1,6 +1,6 @@
 # Heading to Production
 
-> 📍 Late Game · 9 decisions made
+> 📍 Late Game · 10 decisions made
 
 You say it before anyone asks: "I'll run the deploy."
 
@@ -12,7 +12,7 @@ The room shifts. The warm chaos of the dev environment gives way to something co
 
 ---
 
-- [Enter the deploy →](https://github.com/shift/right)
+- [Enter the deploy →](https://github.com/shift/right/blob/main/README.md)
 
 **1 choice — there is no going back.**
 

@@ -1,6 +1,6 @@
 # Sprint Review
 
-> 📍 Sprint 3 · 3 decisions made
+> 📍 Sprint 3 · 3 decisions made · ⚠️ Warning
 
 It's Friday. Sprint review. The demo loads. It's... fine. Not great. The CSS is still a bit broken in Safari but the CEO didn't notice.
 
@@ -10,8 +10,8 @@ But you shipped. That counts for something. Most people don't ship on their firs
 
 ---
 
-- [Head to sprint 2 →](../sprint-2)
-- [Your manager wants to chat](../one-on-one)
+- [Head to sprint 2 →](../sprint-2/README.md)
+- [Your manager wants to chat](../one-on-one/README.md)
 
 **2 choices — there is no going back.**
 

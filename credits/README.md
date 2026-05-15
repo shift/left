@@ -38,7 +38,7 @@
 
 ---
 
-- [← Back to first day](../)
+- [← Back to first day](../README.md)
 
 **1 choice — there is no going back.**
 

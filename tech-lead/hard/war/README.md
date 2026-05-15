@@ -10,4 +10,4 @@ You and the senior engineer are at war. Every architectural decision becomes a b
 
 *You failed. You've been fired. The startup died. The company lost your data. The pager won.*
 
-[🔄 Try again from the beginning](https://github.com/shift/left)
+[🔄 Try again from the beginning](https://github.com/shift/left/blob/main/README.md)

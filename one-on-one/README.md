@@ -1,6 +1,6 @@
 # The 1:1
 
-> 📍 Sprint 4 · 4 decisions made
+> 📍 Late Game · 5 decisions made
 
 Your weekly 1:1. Your manager asks: "How are you doing? Really?"
 
@@ -10,8 +10,8 @@ The honest answer: you're drowning. The professional answer: "Good! Learning a l
 
 ---
 
-- [Be honest about the struggles](../framed-well)
-- [Put on a brave face](../feature-factory)
+- [Be honest about the struggles](../framed-well/README.md)
+- [Put on a brave face](../feature-factory/README.md)
 
 **2 choices — there is no going back.**
 

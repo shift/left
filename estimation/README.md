@@ -1,6 +1,6 @@
 # The Estimate
 
-> 📍 Late Game · 9 decisions made
+> 📍 Late Game · 10 decisions made
 
 Planning poker. The feature is "Integrate with third-party payment provider." You've never integrated a payment provider before.
 
@@ -10,9 +10,9 @@ The junior says 2 days. The senior says 3 weeks. Everyone looks at you.
 
 ---
 
-- ["I need to spike it first before estimating"](../framed-well)
-- [2 weeks — split the difference](./medium)
-- [5 days — be optimistic](./fast)
+- ["I need to spike it first before estimating"](../framed-well/README.md)
+- [2 weeks — split the difference](./medium/README.md)
+- [5 days — be optimistic](./fast/README.md)
 
 **3 choices — there is no going back.**
 

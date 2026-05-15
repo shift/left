@@ -1,6 +1,6 @@
 # The Rush Job
 
-> 📍 Late Game · 11 decisions made
+> 📍 Late Game · 12 decisions made · 🔴 Danger
 
 You scramble to ship something before the board meeting. A half-working dark mode toggle. The CSS still has banana classes.
 
@@ -14,9 +14,9 @@ You cannot. The mobile layout is a crime scene.
 
 ---
 
-- [Understand infrastructure first](https://github.com/shift/down)
-- [Prove myself on a big project](https://github.com/shift/up)
-- [Fix the mobile layout first](https://github.com/shift/right)
+- [Understand infrastructure first](https://github.com/shift/down/blob/main/README.md)
+- [Prove myself on a big project](https://github.com/shift/up/blob/main/README.md)
+- [Fix the mobile layout first](https://github.com/shift/right/blob/main/README.md)
 
 **3 choices — there is no going back.**
 

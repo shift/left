@@ -1,6 +1,6 @@
 # The Breaking Point
 
-> 📍 Late Game · 6 decisions made
+> 📍 Late Game · 9 decisions made · 🔴 Danger
 
 Friday, 4:47pm. You just merged a feature. CI is green. You're reaching for your bag when Slack explodes.
 
@@ -12,9 +12,9 @@ Your feature touched the payment service's dependency chain. You didn't know it 
 
 ---
 
-- [Revert immediately](https://github.com/shift/right/tree/main/emergency)
-- [Try to fix forward](./fix-forward)
-- [Wait for someone else to handle it](./hide)
+- [Revert immediately](https://github.com/shift/right/blob/main/emergency/README.md)
+- [Try to fix forward](./fix-forward/README.md)
+- [Wait for someone else to handle it](./hide/README.md)
 
 **3 choices — there is no going back.**
 
